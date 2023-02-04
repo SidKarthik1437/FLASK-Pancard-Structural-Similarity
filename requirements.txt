@@ -1,4 +1,4 @@
-Flask
+Flask==2.2.2
 imutils
 opencv-python-headless==4.2.0.32
 Pillow
